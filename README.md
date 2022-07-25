@@ -1,5 +1,5 @@
 # Bioinfo_Journals
-List of Bioinformatics and Computational Biology Journals.
+List of Bioinformatics and Computational Biology Peer-Reviewed Journals.
 
 | Journal | Impact Factor | Webpage |
 | ------- | ------------- | ------- |
@@ -20,5 +20,12 @@ List of Bioinformatics and Computational Biology Journals.
 | Journal of Computational Biology | 1.032 | http://www.liebertpub.com/cmb |
 | Journal of Bioinformatics and Computational Biology | 0.931 | http://www.worldscientific.com/worldscinet/jbcb |
 | Current Bioinformatics| 0.6 | http://benthamscience.com/journals/current-bioinformatics/ |
+||||
+| GigaScience | |https://academic.oup.com/gigascience |
+| Molecular Biology and Evolution |  | https://academic.oup.com/mbe |
+| Genome Biology and Evolution | | https://academic.oup.com/gbe |
+| Nucleic Acids Research | | https://academic.oup.com/nar |
+| Molecular Systems Biology | | https://www.embopress.org/journal/17444292 |
+| Systematic Biology |  | https://academic.oup.com/sysbio |
 
 Last Updated: 25 Jan 2018
