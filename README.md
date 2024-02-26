@@ -27,5 +27,7 @@ List of Bioinformatics and Computational Biology Peer-Reviewed Journals.
 | Nucleic Acids Research | | https://academic.oup.com/nar |
 | Molecular Systems Biology | | https://www.embopress.org/journal/17444292 |
 | Systematic Biology |  | https://academic.oup.com/sysbio |
+| IEEE Journal of Biomedical and Health Informatics |  | https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221020 |
+
 
 Last Updated: 25 Jan 2018
